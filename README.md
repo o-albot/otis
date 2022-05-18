@@ -13,3 +13,6 @@ blackbox
 Добавление в grafana источника данных Prometheus
 Создание дашборда для node_exporter первой виртуальной машины в папке infra
 Создание дашборда для blackbox_exporter в папке app
+Создание Contact point для telegram
+Создание alert rule для оповещения о недоступности страницы CMS wordpress
+Создание DrillDown dashboard для node_exporter виртуальной машины с CMS и страницы CMS https://example.com/wp-admin
