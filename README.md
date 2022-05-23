@@ -1,5 +1,5 @@
 # otis
-ДЗ1
+##ДЗ1
 Установка CMS Wordppress, exporter на первой виртуальной машине
 nginx + phpfpm + mariadb
 node_exporter
@@ -9,7 +9,7 @@ blackbox
 добавление targets в prometheus
 настройка alertmanager для отправки сообщений в telegram
 
-ДЗ2
+##ДЗ2
 Добавление в grafana источника данных Prometheus
 Создание дашборда для node_exporter первой виртуальной машины в папке infra
 Создание дашборда для blackbox_exporter в папке app
