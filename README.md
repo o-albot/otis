@@ -18,3 +18,9 @@ blackbox<br>
 Создание Contact point для telegram<br>
 Создание alert rule для оповещения о недоступности страницы CMS wordpress<br>
 Создание DrillDown dashboard для node_exporter виртуальной машины с CMS и страницы CMS https://example.com/wp-admin
+
+ДЗ3
+----------------------------------
+Установка heartbeat, metricbeat, filebeat
+Настройка отправки логов в ELK через logstash
+ELK установлен на отдельной виртуальной машине и будет использован в ДЗ4
